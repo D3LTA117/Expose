@@ -15,6 +15,8 @@ There are 2 graphics options, "PC de la NASA" (ultra quality) and "minitel de ma
 
 List of graphic config :
 
+
+
 Both :
 - Vsync : on
 - Chromatic aberation : off
@@ -28,6 +30,7 @@ Both :
 - Show FPS : on
 
 
+
 PC de la NASA :
 - Antialiasing : temporal antialiasing
 - Temporal antialiasing for upslampling : on
@@ -38,6 +41,7 @@ PC de la NASA :
 - Tonemapper : grain quantization
 - Max anisotropy : 16
 - Motion blur : ultra
+
 
 
 Minitel de mami :
